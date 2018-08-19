@@ -15,7 +15,7 @@
 	  <!-- Links -->
 	  <ul class="navbar-nav">
 	    <li class="nav-item"><a class="nav-link" href="produto-formulario.php">Adiciona Produto</a></li>
-	    <li class="nav-item"><a class="nav-link" href="#">Sobre</a></li>
+	    <li class="nav-item"><a class="nav-link" href="produto-lista.php">Produtos</a></li>
 	  </ul>
 	</nav>
     <div class="container">
